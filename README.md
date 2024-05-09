@@ -25,7 +25,7 @@ First open brawl stars v54 server emulator
 4. Type python3 LRBS.py and it's done, follow client instructions.
 
 ### Android Client ###
-1. Apk - скора 
+1. Apk - https://drive.google.com/file/d/1-Tab9GHhjOrlSvsn7Ab-t4RMLdPcuaTi/view?usp=drivesdk
 2. Change ip in liblrbs.script.so 
 3. Done!
 
