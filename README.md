@@ -36,7 +36,7 @@ First open brawl stars v54 server emulator
 3. Done!
 
 ### Telegram ###
-check https://t.me/LRBSK for more news!
+check https://t.me/LRBSXFRESH for more news!
 
 ### Credits ###
 libresrved & LRBS TEAM
